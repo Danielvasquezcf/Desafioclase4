@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Remera",
+      "price": 2500
+    },
+    {
+      "id": 2,
+      "name": "Musculosa",
+      "price": 3500
+    },
+    {
+      "id": 3,
+      "name": "Bermuda",
+      "price": 4500
+    }
+  ]
